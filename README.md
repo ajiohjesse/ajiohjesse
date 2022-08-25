@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in fullstack Web Development.
 
-- 🌱 I’m currently learning frontend frameworks like react.js, next.js and the MERN stack for backend development.
+- 🌱 I’m currently learning frontend frameworks like react.js and next.js, the MERN stack for backend development and also React Native for mobile app development.
 - 💞️ I’m looking to collaborate on open source projects including websites, e-commerce sites and blogs.
 - 📫 How to reach me: Email - ajiohjesse@gmail.com
 
