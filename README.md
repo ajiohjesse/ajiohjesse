@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse Ajioh.
 
-- 👀 I’m interested in fullstack Web Development.
+- 👀 I’m interested in Fullstack Web Development.
 
 - 🌱 I’m currently learning frontend frameworks like react.js and next.js, the MERN stack for backend development and also React Native for mobile app development.
 - 💞️ I’m looking to collaborate on open source projects including websites, e-commerce sites and blogs.
