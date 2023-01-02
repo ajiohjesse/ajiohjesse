@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=100&lines=Creating+digital+products+with+unique+ideas.;Building+web+applications+with+the+latest+tools.)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m Jesse Ajioh.
 
 - 👀 I’m interested in Fullstack Web Development.
