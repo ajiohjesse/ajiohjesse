@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.twitter.com/rehxnation" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/rehxnation?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
+    <img src="https://img.shields.io/twitter/follow/rehxofficial?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
 <!--   <a href="https://www.linkedin.com/in/victorekeawa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
