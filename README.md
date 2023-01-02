@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-<img src="https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e">
+<img src="https://komarev.com/ghpvc/?username=ajiohjesse&style=flat-square&color=6cd63e">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=100&lines=Creating+digital+products+with+unique+ideas.;Building+web+applications+with+the+latest+tools.)](https://git.io/typing-svg)
 
