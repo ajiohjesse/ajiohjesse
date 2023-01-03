@@ -2,10 +2,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=ajiohjesse&style=flat-square&color=6cd63e">
 
+<a href="https://victoreke.com">
+  <img src="https://jesseajioh.vercel.app/images/banner.jpg" width="100%">
+</a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=100&lines=Creating+digital+products+with+unique+ideas.;Building+web+applications+with+the+latest+tools.)](https://git.io/typing-svg)
 
 
-- 👋 Hi, I’m Jesse Ajioh.
+## 👋 Hi, I’m Jesse Ajioh.
 
 <p align="left">
   <a href="https://www.twitter.com/rehxnation" target="_blank" rel="noreferrer">
@@ -19,9 +23,15 @@
   </a> -->
 </p>
 
-- 👀 I’m interested in Fullstack Web Development.
+As a web developer with over a year of experience, I am passionate about 
+creating intuitive and engaging user experiences. I am proficient in 
+Javascript and have a solid understanding of web development principles.
 
-- 🌱 I’m currently learning frontend frameworks like react.js and next.js, the MERN stack for backend development and also React Native for mobile app development.
+In addition to my technical skills, I have copywriting experience and 
+can bring a unique perspective to any design process. I am always 
+looking for new ways to improve and grow as a developer, and I am 
+eager to take on new challenges and projects.
+
 - 💞️ I’m looking to collaborate on open source projects including websites, e-commerce sites and blogs.
 - 📫 How to reach me: Email - ajiohjesse@gmail.com
 
