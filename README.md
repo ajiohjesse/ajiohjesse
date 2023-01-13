@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ajiohjesse&style=flat-square&color=6cd63e">
 
-<a href="https://victoreke.com">
+<a href="https://jesseajioh.vercel.app">
   <img src="https://jesseajioh.vercel.app/images/banner.jpg" width="100%">
 </a>
 
@@ -12,7 +12,7 @@
 ## 👋 Hi, I’m Jesse Ajioh.
 
 <p align="left">
-  <a href="https://www.twitter.com/rehxnation" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/rehxofficial" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/rehxofficial?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
 <!--   <a href="https://www.linkedin.com/in/victorekeawa">
