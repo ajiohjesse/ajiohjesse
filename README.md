@@ -23,14 +23,7 @@
   </a> -->
 </p>
 
-As a web developer with over a year of experience, I am passionate about 
-creating intuitive and engaging user experiences. I am proficient in 
-Javascript and have a solid understanding of web development principles.
-
-In addition to my technical skills, I have copywriting experience and 
-can bring a unique perspective to any design process. I am always 
-looking for new ways to improve and grow as a developer, and I am 
-eager to take on new challenges and projects.
+I'm a frontend developer with a specialty in crafting efficient and visually appealing web applications. I'm especially skilled in Javascript, Typescript, React.js, Next.js, Styled Components and Tailwind CSS. I've had experience integrating both REST and GraphQL APIs using React Query and Apollo Client and I've worked with several design systems and component libraries including Prime React, Material UI, Radix UI and Ant Design. I also have basic insight into backend development with Node.js, Express and Mongo DB. I am always looking for new ways to improve and grow as a developer, and I am excited to take on new challenges and projects.
 
 - 💞️ I’m looking to collaborate on open source projects including websites, e-commerce sites and blogs.
 - 📫 How to reach me: Email - ajiohjesse@gmail.com
